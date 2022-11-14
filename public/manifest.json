@@ -3,14 +3,14 @@
     "name": "Smart Street Light PWA",
     "icons": [
         {
-            "src": "/images/lantern.svg",
-            "type": "image/svg",
+            "src": "/images/logo.png",
+            "type": "image/png",
             "sizes": "192x192",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/lantern.svg",
-            "type": "image/svg",
+            "src": "/images/logo.png",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ],
